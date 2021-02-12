@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-#NMP init 
+# NMP init 
 Nos permite definir que es el proyecto y para que es
 
 
@@ -25,7 +24,3 @@ V = El tradicional try - catch y manejar las excepciones de manera mas fluida
 V = Mas fáciles de leer que sucedera que va a suceder
 D = Ese poder que podemos decir es decir si queremos algo debemos esperar que algo suceda
 D = Requiere un polyfile para ser transpilados y ser interpretados en todos los navegadores //Babbel
-=======
-# Asincronismo_JavaScript
-Este es un curso de asincronismo con JavaScript, se trabajan temas como Promises, callback, async y await 
->>>>>>> acdfc2eead7f8d150783a815de036fee2cbeb293
